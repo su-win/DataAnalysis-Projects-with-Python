@@ -6,7 +6,7 @@ These are data analysis projects based on datasets from Tidy Tuesday. Each proje
 <br><br>
 ## Projects
 
-- **[National Park Species](https://github.com/su-win/DataAnalysis-Projects-with-Python/Oct8_NationalParkSpecies)**
+- **[National Park Species](Oct8_NationalParkSpecies)**
   
 
 <br><br>
