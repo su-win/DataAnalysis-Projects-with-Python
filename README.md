@@ -7,6 +7,8 @@ These are data analysis projects based on datasets from Tidy Tuesday. Each proje
 ## Projects
 
 - **[National Park Species](Oct8_NationalParkSpecies)**
+- **[Monster Movies](Oct29_MonsterMovie)**
+
   
 
 <br><br>
